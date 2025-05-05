@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Nuke autosave and backup files
+*.autosave
+*.nk~*
+*.tmp
+
+# Log and crash files
+*.log
+*.crash
+
+# Environment / local config
+.env
+.venv/
+env/
+venv/
+.settings/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# PyInstaller or packaging
+dist/
+build/
+*.spec
+
+# Cache
+.cache/
+*.bak
