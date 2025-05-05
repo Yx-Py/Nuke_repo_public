@@ -1,4 +1,26 @@
-# ChangeKnob Panel - Changelog
+# 📦 CHANGELOG
+
+## ✅ Version v1.1 – Refinements & Power Features
+Date: 2024-05-XX
+
+### ✨ New Features
+- Multi-knob support per row (e.g. `size, center` or `size center`)
+- Limit of 5 knobs per row
+- Knob search tool: keyword + auto-fill
+- Preserve knob order from Nuke property panel
+- Toggle to ignore internal/system knobs
+- Tooltips and Clear Table button
+
+### 🧠 Improvements
+- Undo grouped correctly
+- Duplicate knobs ignored in auto-fill
+- Lightweight: no callbacks or slowdowns
+
+## 🛠 Version v1.0 – Initial Release
+- Modify knobs by selection/class/name
+- Table interface
+- Load common knobs
+- Undo support
 
 ## v1.0 – 2024-05-02
 
